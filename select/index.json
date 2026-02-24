@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "feelin'",
+  "base_artist": "muque",
+  "createdAt": "2026-02-24T01:44:19.181778Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hope You're Feelin' Me (Like I'm Feelin' You)",
+      "artist": "Charley Pride",
+      "has_synced": true,
+      "path": "select/01_Hope_You're_Feelin'_Me_(Like_I'm_Feelin'_You)_Charley_Pride.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Got A Feelin'",
+      "artist": "Billy Currington",
+      "has_synced": true,
+      "path": "select/02_I_Got_A_Feelin'_Billy_Currington.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Got A Feelin' (Album Version)",
+      "artist": "Billy Currington",
+      "has_synced": true,
+      "path": "select/03_I_Got_A_Feelin'_(Album_Version)_Billy_Currington.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "That Lovin' You Feelin' Again",
+      "artist": "Emmylou Harris feat. Roy Orbison",
+      "has_synced": false,
+      "path": "select/04_That_Lovin'_You_Feelin'_Again_Emmylou_Harris_feat._Roy_Orbison.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Feelin' The Same Way",
+      "artist": "Norah Jones",
+      "has_synced": true,
+      "path": "select/05_Feelin'_The_Same_Way_Norah_Jones.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Feelin' So Sexy",
+      "artist": "Ludacris",
+      "has_synced": true,
+      "path": "select/06_Feelin'_So_Sexy_Ludacris.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Feelin'",
+      "artist": "The La's",
+      "has_synced": true,
+      "path": "select/07_Feelin'_The_La's.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Feel That You're Feelin'",
+      "artist": "Maze",
+      "has_synced": false,
+      "path": "select/08_Feel_That_You're_Feelin'_Maze.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Got This Feelin'",
+      "artist": "Mates of State",
+      "has_synced": false,
+      "path": "select/09_I_Got_This_Feelin'_Mates_of_State.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Feelin' Blue",
+      "artist": "Creedence Clearwater Revival",
+      "has_synced": true,
+      "path": "select/10_Feelin'_Blue_Creedence_Clearwater_Revival.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Feelin’ Blue",
+      "artist": "Creedence Clearwater Revival",
+      "has_synced": true,
+      "path": "select/11_Feelin’_Blue_Creedence_Clearwater_Revival.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Are You Feelin' Me?",
+      "artist": "Aaliyah",
+      "has_synced": true,
+      "path": "select/12_Are_You_Feelin'_Me_Aaliyah.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Feelin' It",
+      "artist": "Araabmuzik",
+      "has_synced": true,
+      "path": "select/13_Feelin'_It_Araabmuzik.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "feelin'",
+      "artist": "muque",
+      "has_synced": false,
+      "path": "select/pl_01_feelin'_muque.txt"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+# muque – feelin'
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+追いかけっこ走り回る
+私のfeeling 上昇中
+にらめっこ書き溜めた
+心のfalling 閉鎖中
+knock knock早く急いでよ
+ticktack進む
+ドクドク鼓動うるさいよ
+この手離すなよ
+感じるまま dancing
+そしてスキップをしながら
+肝心なものなんて消して
+スワイプでずらして
+踊れ
+yeahyeahyeah
+夜が明けるまで
+歌え
+yeahyeahyeah
+声が枯れるまで
+なんでもないじゃない
+Focus for tonight
+これは犠牲とかと違う
+新しい自分と誓う
+Give away
+knock knock 早く急いでよ
+ticktack 進む
+ドクドク鼓動うるさいよ
+この手離すなよ
+感傷的な心(愛)をそっと
+救ってよ今から
+完璧じゃなくたっていいって
+笑って今だけは
+走れ
+yeahyeahyeah
+夜が明けるまで
+叫べ
+yeahyeahyeah
+声が枯れるまで
+感じるまま dancing
+そしてスキップをしながら
+肝心なものなんて消して
+スワイプでずらして
+踊れ
+yeahyeahyeah
+夜が明けるまで
+歌え
+yeahyeahyeah
+声が枯れるまで
+```
